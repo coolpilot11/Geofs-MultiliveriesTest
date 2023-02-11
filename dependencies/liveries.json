@@ -1,12 +1,12 @@
 { "aircraft": [
 	{
   "name": "BN-2 (Skybus) By IUHairways",
-  "livery": "https://user-images.githubusercontent.com/103064103/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png",
-  "mptx": "https://user-images.githubusercontent.com/103064103/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png"
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png"
 	},
 	{
   "name": "PA-28 (Blank) By Coolpilot11",
-  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/blank.png",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/blanks.png"
 	}
   ]}
