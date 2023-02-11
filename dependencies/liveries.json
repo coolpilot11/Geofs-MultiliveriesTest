@@ -1,13 +1,8 @@
 { "aircraft": [
 	{
-  "name": "PA-28 (N41669) By Coolpilot11",
+  "name": "BN-2 (Skybus) By IUHairways",
   "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/41669.png",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/41669.png"
-	},
-	{
-  "name": "PA-28 (PH-KAX) By Coolpilot11",
-  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/PHKAX2.png",
-  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/PHKAX2.png"
 	},
 	{
   "name": "PA-28 (Blank) By Coolpilot11",
