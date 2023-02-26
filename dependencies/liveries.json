@@ -1,8 +1,13 @@
 { "aircraft": [
 	{
   "name": "BN-2 skybus (by IUHAirways)",
-  "livery": "https://user-images.githubusercontent.com/103064103/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png",
-  "mptx": "https://user-images.githubusercontent.com/103064103/218203579-df0d5dd7-606c-44cb-b115-d07f5f5c9a0c.png"
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2Skybus.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2Skybus.png"
+	},
+	{
+  "name": "BN-2 OLT (by Coolpilot11)",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2OLT.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2OLT.png"
 	},
 	{
   "name": "BN-2 Olympic (by Coolpilot11)",
