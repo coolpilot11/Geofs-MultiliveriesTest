@@ -1,8 +1,8 @@
 { "aircraft": [
 	{
   "name": "BN-2 skybus (by IUHAirways)",
-  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2Skybus.png",
-  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/BN2Skybus.png"
+  "livery": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/finnair.jpg",
+  "mptx": "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/airbus_a350-900/finnair.jpg"
 	},
 	{
   "name": "BN-2 OLT (by Coolpilot11)",
